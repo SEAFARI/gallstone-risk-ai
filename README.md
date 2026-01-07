@@ -1,6 +1,6 @@
 # 🏥 AI-Powered Clinical Decision Support System for Gallstone Disease
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)]([LINK_TO_YOUR_HUGGINGFACE_SPACE_HERE](https://huggingface.co/spaces/Seafari/gallstone-risk-ai))
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/Seafari/gallstone-risk-ai)
 [![Paper](https://img.shields.io/badge/Paper-Procedia%20Computer%20Science-red)]()
 [![Python](https://img.shields.io/badge/Python-3.9-yellow)]()
 
