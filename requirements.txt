@@ -1,0 +1,7 @@
+streamlit
+xgboost
+numpy
+pandas
+shap
+streamlit-shap
+matplotlib
